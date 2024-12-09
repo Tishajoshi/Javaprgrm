@@ -1,0 +1,1 @@
+This repository basically consists of a few java programs to understand java programming language better and utilize in projects if necessary.These programs are taken from programs present in the VTU syllabus for the subject OOP's with java.
